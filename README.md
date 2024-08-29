@@ -24,7 +24,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Contact:
 For any inquiries or feedback, please reach out to:
 Name: Harshal Barhe
-Email: your-harshbarhe123@example.com
+Email: harshbarhe123@example.com
 GitHub: Harshbarhe8805
 
 Feel free to customize the content to better suit your project’s specifics and add any additional sections that may be relevant!
